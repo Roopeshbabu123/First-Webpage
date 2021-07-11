@@ -1,0 +1,25 @@
+.top-bar {
+  text-decoration: none;
+}
+.items {
+  text-decoration: none;
+  letter-spacing: 4px;
+  padding: 15px 20px;
+}
+.nav-bar {
+  float: right;
+}
+@media (min-width: 500px) {
+  .about {
+    /* width: 50px; */
+  }
+}
+.col1 {
+  float: left;
+}
+.col2 {
+  float: right;
+}
+.text {
+  letter-spacing: 5px;
+}
